@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김형곤"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**백엔드 개발자**가 되기 위한 노력"
   location         : "경주시"
